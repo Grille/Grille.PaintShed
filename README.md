@@ -1,6 +1,9 @@
 # Grille.PaintShed
 Simple skin creation tool based on Trainz PaintShed.
 
+## Dependencies
+- [.NET Desktop Runtime 6.0 or Later](https://dotnet.microsoft.com/en-us/download/dotnet)
+  
 ## Downloads
 - [Latest Win-64 Executable](https://github.com/Grille/Grille.PaintShed/releases/download/v0.1/win-x64.zip)
 - [TrainzPaintShed 1.6 Skins](https://github.com/Grille/Grille.PaintShed/releases/download/v0.1/original.paintshed.skins.zip)
